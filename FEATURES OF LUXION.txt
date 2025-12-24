@@ -1,0 +1,106 @@
+System & Application Control:
+
+✅ Open Applications: Chrome, Firefox, Spotify, WhatsApp, Telegram, VS Code, etc.
+
+✅ Close Applications: Specific apps or "close all", "close current"
+
+✅ System Operations:
+
+Shutdown computer
+
+Restart computer
+
+Lock computer
+
+Put computer to sleep
+
+✅ Volume Control: Mute/unmute, increase/decrease volume
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Web & Media
+✅ YouTube Playback: "Play [song/video] on YouTube"
+
+✅ Web Browsing: Open specific websites (YouTube, Facebook, etc.)
+
+✅ Web Search: Google search from voice command
+
+✅ Wikipedia Search: Get summaries from Wikipedia
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Information & Utilities
+✅ Time & Date: Current time and date
+
+✅ Weather Information: Basic weather checking
+
+✅ News Headlines: Latest news from BBC RSS feed
+
+✅ Calculator: Basic mathematical calculations
+
+✅ System Information: CPU usage, memory usage, OS details
+
+✅ Screenshots: Take and save screenshots
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Productivity
+✅ Note Taking: Save text notes to file
+
+✅ Reminders: Basic reminder logging (saves to text file)
+
+✅ File Management:
+
+Create folders
+
+List files in directory
+
+✅ Answer Questions: Uses local Ollama AI for general knowledge
+
+Entertainment & Communication
+✅ Jokes: Tell random jokes
+
+✅ Conversation:
+
+Greetings (hello, hi, hey)
+
+Personal questions (how are you, your name)
+
+Good morning/afternoon/evening/night responses
+
+Thank you responses
+
+Goodbye messages
+
+✅ Help Menu: List available commands
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Database Features
+✅ App Database: Stores application paths in SQLite database
+
+✅ Website Database: Stores website URLs for quick access
+
+✅ Auto-update: Can add common applications to database
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Technical Features
+✅ Voice Recognition: Speech-to-text using Google Speech Recognition
+
+✅ Text-to-Speech: pyttsx3 for voice output
+
+✅ Visual Interface: Web-based UI with animations
+
+✅ Sound Effects: Activation and click sounds
+
+✅ Process Management: Can identify and terminate running processes
+
+-----------------------------------------------------------------------------------------------------------------------
+
+AI Capabilities
+✅ Local AI Integration: Uses Ollama (local LLM) for answering questions
+
+✅ Command Recognition: Natural language command parsing
+
+✅ Context Awareness: Understands different phrasings for same commands
