@@ -54,11 +54,14 @@ Run the installer
 
 Download AI Model (one-time setup):
 --------------------------------------
-bash
+bash :
+
 ollama pull phi
+
 --------------------------------------
 
 Restart Luxion and try again.
+
 
 
 
