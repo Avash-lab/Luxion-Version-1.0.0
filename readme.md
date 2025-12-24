@@ -18,13 +18,13 @@ Tej
 
 1. Download the file shared with you
 
-Extract it to any folder on your computer 
+2. Extract it to any folder on your computer 
 
-open the luxion folder inside
+3. open the luxion folder inside
 
-Double-click Luxion.exe
+4. Double-click Luxion.exe
 
-If Windows Defender warns you, click "More info" → "Run anyway"
+5. If Windows Defender warns you, click "More info" → "Run anyway"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -56,6 +56,7 @@ ollama pull phi
 --------------------------------------
 
 Restart Luxion and try again.
+
 
 
 
